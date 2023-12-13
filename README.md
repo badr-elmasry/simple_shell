@@ -1,1 +1,1 @@
-Simple Shell Project By Nuran and Badr
+Simple Shell Project By Nurann and Badr
